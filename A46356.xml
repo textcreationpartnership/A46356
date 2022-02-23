@@ -1,0 +1,654 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Juniper lecturer corrected and his Latin, pagan, putid [sic] nonsence paraphrazed ; also, The coffee scoffer cussed and kicked, or, The pittifull paedagoog's Latin vindication</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1662</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A46356</idno>
+            <idno type="STC">Wing J1193</idno>
+            <idno type="STC">ESTC R27124</idno>
+            <idno type="EEBO-CITATION">09657755</idno>
+            <idno type="OCLC">ocm 09657755</idno>
+            <idno type="VID">43933</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A46356)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 43933)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1334:28)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Juniper lecturer corrected and his Latin, pagan, putid [sic] nonsence paraphrazed ; also, The coffee scoffer cussed and kicked, or, The pittifull paedagoog's Latin vindication</title>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1662.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"The coffee scoffer cussed and kicked, or, The pittiful paedagoog's Latin vindication" : p. 11-16.</note>
+                  <note>In Latin verse, with introductory fable in English verse.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="lat">lat</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <p>
+               <pb facs="tcp:43933:1"/>
+               <pb facs="tcp:43933:1"/>
+THE JUNIPER LECTURER CORRECTED, And his Latin, Pagan, putid Nonſence PARAPHRAZED.</p>
+            <p>ALSO, THE COFFEE SCOFFER Cuffed, and Kicked: OR, THE <hi>PITTIFULL PAEDAGOOG'S</hi> Latin Vindication.</p>
+            <figure/>
+            <p>
+               <hi>LONDON,</hi> Printed in the year 1662.</p>
+            <pb facs="tcp:43933:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="fable">
+            <pb facs="tcp:43933:2"/>
+            <head>A FABLE.</head>
+            <l>
+               <hi>
+                  <seg rend="decorInit">M</seg>Oths, Bats, Daws, Owles,</hi> ambitiouſly did ſeek</l>
+            <l>To ſpeak pure Latin, learn the copious Greek.</l>
+            <l>The one they chatter'd rudely, but the other</l>
+            <l>They knew no more, then the blind-born doth color.</l>
+            <l>But to conclude, they ſelf-conceited were;</l>
+            <l>And challenged their betters, without fear.</l>
+            <l>The <hi>Cuckow, Parot,</hi> they to match did think;</l>
+            <l>But either theſe, did make them all to ſtink.</l>
+            <l>The <hi>Cuckow</hi> learnt ſo much, that he ſpake Greek</l>
+            <l>More in an hour, then they did in a week.</l>
+            <l>But the rare <hi>Parot</hi> ſpake the tongues ſo high,</l>
+            <l>That made them all with envy for to cry;</l>
+            <l>Come no more <hi>Parot</hi> to us; leſt this don,</l>
+            <l>We rub your bunch-back in the ſcorching ſun.</l>
+            <l>They made the Bird a <hi>Camel.</hi> Thus we ſee</l>
+            <l>Fools, Knaves, Sots, Pimps, publiſh <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+            </l>
+            <pb facs="tcp:43933:3"/>
+         </div>
+         <div type="poem">
+            <l>
+               <pb n="5" facs="tcp:43933:3"/>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>,</l>
+            <l>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.</l>
+            <l>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.</l>
+            <l>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.</l>
+            <l>
+               <seg rend="decorInit">V</seg>Apulat <hi>Orbilius:</hi> quis? &amp; à quo? ſalpa ſalivans!</l>
+            <l>Te Corydone ſubex, torta flagella teram?</l>
+            <l>Iuniperive cibo tineis lectura magiſtro.</l>
+            <l>Sed tua juniperus toxica tetra tegit.</l>
+            <l>Edita <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> per ſcribam. Verna Lyaeo</l>
+            <l>Se dicat; heſternum non olet iſte merum.</l>
+            <l>Evion, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, patientem ferre dolores,</l>
+            <l>Ebrius oggannit. Blax Acheronta ciet.</l>
+            <l>Eſt regale probis à te mala ſcire cinaedo,</l>
+            <l>Indoles eximium cui negat eſſe pilum.</l>
+            <l>Oedipon &amp; Sphingem glomeras, Centaure biformis!</l>
+            <l>Veri blatta capax exulat ore tropus.</l>
+            <l>Quam te delectat, ſcurrilis ſimia Clivi,</l>
+            <l>Fundere probroſis plauſtra referta dolis!</l>
+            <l>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>commata cudendi tentat praecordia fervor:</l>
+            <l>Me lupa nutrivit, me genuitque draco.</l>
+            <l>Qui tibi ſuggeſſit rabidos reboare furores,</l>
+            <l>Praecipitem, caveas, ne det in omne nefas.</l>
+            <l>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ur tibi reſcribam, nihil eſt rationis habendum:</l>
+            <l>Denuò rixanti, ſarda, ſilere reor.</l>
+            <l>
+               <pb n="6" facs="tcp:43933:4"/>
+Saepius allatras mihi flagrio flegmina, nates,</l>
+            <l>Quàm ſenſere graves chara caterva volas.</l>
+            <l>Arguit hoc puerum ſceleri vixiſſe ſubactum,</l>
+            <l>Crudas vibices commaculâſſe cutim.</l>
+            <l>Heu ructas, ſputas, hirris, paedantius audit</l>
+            <l>Infimus hic, cum quo bella cruenta gero.</l>
+            <l>Deſpicis abſimilem quemvis tibi, ſordide leno,</l>
+            <l>E quorum numero glorior eſſe ratum.</l>
+            <l>Perdite perjuras, me quid cuculâſſe nitentes</l>
+            <l>In <hi>Grotii</hi> titulos, collutulâſſe genus.</l>
+            <l>Praepoſuiſſe ſty lo fateor documenta laborum:</l>
+            <l>Hinc illae lachrymae profiluere mihi.</l>
+            <l>Me ſilicem mendax tranſcendere daemona damnas,</l>
+            <l>Vejovis &amp; matrem. Nonne Car ipſe paves?</l>
+            <l>Vulnera, tela, faces peſſundator arma minatur,</l>
+            <l>Invocat &amp; furias, queis agitatur hebes.</l>
+            <l>Quid tibi, monticolae nocuerunt, combibo, Cambri?</l>
+            <l>Gutture quos patulo contumulare ſitis.</l>
+            <l>Compedibus carioſe fremis me Thraſo teneri<g ref="char:punc">▪</g>
+            </l>
+            <l>Te curaturum, ſi tua menda querar.</l>
+            <l>Non feralis hylax lunam latratibus urget:</l>
+            <l>Corvus &amp; ignorat, quod reſonare ſolet.</l>
+            <l>Sic tu colluvies creperâ raucedine mugis,</l>
+            <l>Quae moveant riſus, parturiant que ſtrophas.</l>
+            <l>Quonam jure decet fatuum ſartago loquendi?</l>
+            <l>Scribendi ſcabies quâ juvat arte pecus?</l>
+            <l>Quicquid te decorat, vitiat me; lurco reluctans,</l>
+            <l>Imperat ingenio trux Libitina Getae.</l>
+            <l>Porce voras glandes, tamen helluo ſuſpice quercum,</l>
+            <l>E qua proveniunt pabula grata gulae.</l>
+            <l>
+               <pb n="7" facs="tcp:43933:4"/>
+Nativum ſpeculo videas Epicure colorem:</l>
+            <l>Dirigat enormes coelica ſuada Vias.</l>
+            <l>Rorida vulnificis vernant viridaria ramis,</l>
+            <l>Suavia ſpinoſi dant melimela rubi.</l>
+            <l>Arborei foetus digitis removentur in alto,</l>
+            <l>Non reſidi, reduci ſerta liganda rati.</l>
+            <l>Sudanti, non torpenti favet ardua coelum<hi>:</hi>
+            </l>
+            <l>Quiſquis edit panem, non fugit ille molam.</l>
+            <l>Cur ſcopulos ſulco? quid arenae ſemina mando?</l>
+            <l>Serpenti ſurdo cantica caſta cano.</l>
+            <l>Corripis immeritum furti me, rana coaxans,</l>
+            <l>Non ego te furem defero, multa reum.</l>
+            <l>Stultitiam memoras capitalibus ipſe figuris:</l>
+            <l>In me livor edax fulmina bruta tonas.</l>
+            <l>Fellea metra dolas epulo, licitaris acumen:</l>
+            <l>Sortitur ſegnes coeca latrina modos.</l>
+            <l>Si ſocors vocitere, ſalis, minitare, citaris:</l>
+            <l>Quilibet inſipidus buccinat, alta ſapis.</l>
+            <l>Conceptus cecinere tui, ludibria ventis</l>
+            <l>Te fore calcatum, prave ſaperda, ſalem.</l>
+            <l>Quinam conceptus, regeris? date ſpicula manes,</l>
+            <l>Ut mittam furvis, qui mihi pugnat, aquis.</l>
+            <l>Si ſermo mentem pingit, ſi fata repandit,</l>
+            <l>Naſceris ipſe pati ferre tributa bulo.</l>
+            <l>Nuper Grammaticum, ſed nunc ego divido furcam:</l>
+            <l>Abſint auguriis omina certa Magi.</l>
+            <l>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>atum fico cenſes diſcindere vocem,</l>
+            <l>Nunc gratare Cilix me ſecuiſſe crucem.</l>
+            <l>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nicus appares, ſty gio paeane triumphas,</l>
+            <l>Non linget, terget poſteriora mihi.</l>
+            <l>
+               <pb n="8" facs="tcp:43933:5"/>
+Nolo crabrones, nolo laetamina tangi;</l>
+            <l>Gallus fimetum non ego ruspor: abi.</l>
+            <l>Tranquillant choleram Praecepta, fugantque timorem:</l>
+            <l>Hem tibi, rixando Phyllida tortor emis.</l>
+            <l>Hexametris &amp; Pentametris modulabor Iambos;</l>
+            <l>Aeri aurum, ſolidos aereoliſque dabo.</l>
+            <l>Ne mirere comes, ſine punctis bombilat atrox;</l>
+            <l>Amiſit ſtimulum veſpa moleſta ſuum.</l>
+         </div>
+         <div type="poem">
+            <l>Eja age ſtercoreo libemus vina Tonanti,</l>
+            <l>Nec non coelitibus ſubditiore gradu.</l>
+            <l>Pandamusſacrum celeres matrique Vacunae.</l>
+            <l>Incipit ariolus ſollicitare Lares.</l>
+            <l>Occidit occiſor fiſco, dominator honorus</l>
+            <l>Clarior aetherei fulgurat igne tholi.</l>
+            <l>Provocat Entellum Dares certamine coeſtus,</l>
+            <l>Succubuit, ſterilem dente momordit humum.</l>
+            <l>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>,</l>
+            <l>Ludimagiſter hiat caſſior arte cocis.</l>
+            <l>Paganus veterum violat ſacraria Vatum,</l>
+            <l>Luxatus lacero carmine. Lector, ovo.</l>
+            <l>
+               <hi>Pris</hi> bovicida blatis à me tolerare <hi>cianum:</hi>
+            </l>
+            <l>O r<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>bor<hi>!</hi> ô facinus<hi>!</hi> penna proterva tace.</l>
+            <l>Dux dichoraeus erat (ſic triſtia fata tulerunt)</l>
+            <l>Splendidus à modulis decapitatur avus.</l>
+            <l>Sordibus immodicis latices immiſcuit ultor.</l>
+            <l>Pulchra triumphalem cinge tiara comam.</l>
+            <l>Lerna Brittannorum populi, mendice vagaris,</l>
+            <l>Morbida ſus pepcrit tenothon inter haras.</l>
+            <l>Armiger aut miles, qui talia ſpargere de me</l>
+            <l>Audeat, ignotum ſe ſciat eſſe ſibi.</l>
+            <l>
+               <pb n="9" facs="tcp:43933:5"/>
+Hiſtrio treſſis, epôn ſutor, flagrique dynaſta,</l>
+            <l>Hircoſe ô Maevi, nauſea dira ſtygis.</l>
+            <l>Quem Deus ac homines oderunt, flebile monſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ru<g ref="char:cmbAbbrStroke">̄</g>:</l>
+            <l>Si prior immittit, vexat aſilus equum.</l>
+            <l>Speras te niveo curru pulſare ſedentem,</l>
+            <l>Vertice ſublato ſidera ſumma colum?</l>
+            <l>Stellas Evantiſque (viri proh numina quanti)</l>
+            <l>Sectantes umbram lambere? graecor Arabs.</l>
+            <l>I, licet ad cuculi celſis in montibus urbem,</l>
+            <l>O tu terreni rudus, amurca fori<hi>!</hi>
+            </l>
+            <l>Iſtius &amp; tandem conſors faciende popelli,</l>
+            <l>Occine tu nugas, funereoſque tonos.</l>
+            <l>I crucis ipſe cliens, crepitans febrile cerebrum,</l>
+            <l>Literio properus litera longa cluas,</l>
+            <l>Strinxeris ut la queo collum. Delator anilis</l>
+            <l>Quae mala conſpirat, talia paſſus obit.</l>
+            <l>Quid varias crebro juvenum tu verbere clunes?</l>
+            <l>Sed cur non mores corrigis ipſe Ligur?</l>
+            <l>Bellua laeva rudis quid adhuc in pulvere docto?</l>
+            <l>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.</l>
+            <l>Te fungum jactas, ſanus quem reſpuit omnis;</l>
+            <l>Non tibi palpatur quis, niſi Maccus hilum.</l>
+            <l>Abnue vitupero notum temerare Lycaeum</l>
+            <l>Clamorem ſolitum comprime: fare mador.</l>
+            <l>Pſittacus ampla loquax criticas exulcerat aures,</l>
+            <l>Exoſus daemon qui capularis erit;</l>
+            <l>Qui pia profuſo ſubſannat vota cachinno,</l>
+            <l>Ad ritus ſacri nolit adire chori.</l>
+            <l>Turba magiſtrorum tumidis è faucibus hiſcens:</l>
+            <l>Heupudor, heu pietas, juſque, fideſque jacent<hi>!</hi>
+            </l>
+            <l>
+               <pb n="10" facs="tcp:43933:6"/>
+Deſine, nam ſi tu latratus ederis uſquam,</l>
+            <l>Gibbum torrenti ſole Camele fricem.</l>
+            <l>Ciuribus illiſam cautus vereare ſecurim,</l>
+            <l>Quam geris accenſam. Mens pecuina peri.</l>
+            <l>Te fera fortè feram ſtreperum diffundere mur-mur</l>
+            <l>Ore fero, famam me lacerare tuam:</l>
+            <l>Quae nec erat, radios quo primo tempore cernis,</l>
+            <l>Quae nec erit, rutilus dum rotat aſtra polus.</l>
+            <l>Non moror ipſe tuas bipedum faexima querelas,</l>
+            <l>Quem nemo novit, quin tua probra putat,</l>
+            <l>Verſibus haud novies centenis poſſe referri.</l>
+            <l>Dens, frons, vox ſtudiis conſervere latus.</l>
+            <l>Archilochus cedat Naſoni, Zoilus Homero,</l>
+            <l>Lappa roſae, ceraſo cornus, erica nuci.</l>
+            <l>Omne micans aurum non eſt: metire Lycambis</l>
+            <l>Dramata, comperies aſperiora meis.</l>
+         </div>
+         <div type="poem">
+            <pb n="8" facs="tcp:43933:5"/>
+            <head>Paean Triumphalis.</head>
+            <l>Io libemus merum Coprio Jovi,</l>
+            <l>Et diis minorum Gentium;</l>
+            <l>2 Cloacinaeque matri pandamas Sacrum,</l>
+            <l>Quippe occidit pedantius;</l>
+            <l>3 Jacetque pueri dextra confoſſus Dares</l>
+            <l>Mordens arenam dentibus:</l>
+            <l>4 <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>:</l>
+            <l>Magiſter ignorantiae;</l>
+            <l>5 Qui ſemi paganus ſacra Vatum polluit</l>
+            <l>Lacinioſo carmine;</l>
+            <l>6 Et puriores rivulos immiſcuit</l>
+            <l>Smectimnianis ſordib<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s.</l>
+            <l>7 Circumforaneum vah mendicabulum</l>
+            <l>Labes popelli Cambrici!</l>
+            <l>8 Quem Campis faetidum g<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rguſhidon<g ref="char:punc">▪</g>
+            </l>
+            <l>Enixa fertur ſpurca ſus:</l>
+            <l>
+               <pb n="9" facs="tcp:43933:5"/>
+9 Trioboiaris histrio; metri ſutor</l>
+            <l>Flagri Dynaſtes peſsime;</l>
+            <l>10 Hircine maevi; terrae ac caelorum odium,</l>
+            <l>Cerberi fastidium;</l>
+            <l>11 Speras te curru conſidentem eburneo</l>
+            <l>Ferire ſummo Vertice</l>
+            <l>12 Stellas, eaſque Evantis (proh quanti viri)</l>
+            <l>Umbram ſequaces lambere!</l>
+            <l>13 I, l<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cet ad urbem cuculorum in nubibus</l>
+            <l>Mortalium stultiſsime!</l>
+            <l>14 Et tandem conſors factus istius chori</l>
+            <l>Effunde nugas, Naenias:</l>
+            <l>15 I candidate crucis, oſtentans, leve &amp;</l>
+            <l>Febriculoſum ingenium:</l>
+            <l>16 I literator, longa fias litera</l>
+            <l>Cum fune collum obſtrinxeris,</l>
+            <l>17 Quid variaris crebro clunes verbere</l>
+            <l>Mores tuos nec corrigis;</l>
+            <l>18 Quid rudis adhuc erudito in pulvere</l>
+            <l>Inviſa nobis bellua?</l>
+            <l>19 Jactaſve cum te ſanus quiſque deſpicit</l>
+            <l>Maccique ſoli-palpitant.</l>
+            <l>20 Abſiſte Mome nota ab Academia</l>
+            <l>Solitumque hiatum comprime,</l>
+            <l>21 Nobis dicaces pſittaci bilem movent</l>
+            <l>Et capulares Daemones;</l>
+            <l>22 Et qui nefando riſu ſubſannant preces</l>
+            <l>Rituſque ſacrae eccleſiae;</l>
+            <l>23 Et inficeti paedagoguli gregis</l>
+            <l>Ore strepentes turgido:</l>
+            <l>
+               <pb n="10" facs="tcp:43933:6"/>
+24 Abſiſte ne ſi te baubantem audivero</l>
+            <l>In ſole Gibbum refricem;</l>
+            <l>25 Neve aſcia illidatur cruribus tuis</l>
+            <l>Quam tute ſuccenſam geris.</l>
+            <l>26 Ferate murmur ore forſan putrido tibi</l>
+            <l>Tuoque mox exaudiam,</l>
+            <l>27 Me probri accuſans quod famam lacer<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+            </l>
+            <l>Cui fama nulla eſt aut erit:</l>
+            <l>28 Aſt tuas querelas non morabor tetricas</l>
+            <l>Quam nemo ſit quin noverit</l>
+            <l>29 Tuas non poſſe traloqui impuricias</l>
+            <l>Nec ter trecentis verſibus.</l>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="poem">
+            <pb n="11" facs="tcp:43933:6"/>
+            <head>THE COFFEE SCOFFER Cuffed, and kicked: OR, THE PITTIFUL PAEDAGOOG'S <hi>Latin Vindication.</hi>
+            </head>
+            <lg>
+               <head>A Riddle.</head>
+               <l>
+                  <hi>What Mome, and Matter, tell me Friend with ſpeed,</hi>
+               </l>
+               <l>
+                  <hi>Doth ſcribble Lies, and filthy Flies doth feed?</hi>
+               </l>
+            </lg>
+            <lg>
+               <head>Solution.</head>
+               <l>
+                  <hi>Woollenbreeds Moths: a</hi> 
+                  <note n="*" place="margin">Hebrew, Sland<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>r<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>.</note> 
+                  <hi>Rachill I did name,</hi>
+               </l>
+               <l>
+                  <hi>Who hath no Wit, no Worth, no Grace, no Shame.</hi>
+               </l>
+            </lg>
+            <l>MAlè feriati plagipatidae delumbans fuſtigatio.</l>
+            <l>Comitantur praelia prelis.</l>
+            <l>Pro captu lectoris habent ſua fata libelli.</l>
+            <lg>
+               <head>Aenigma.</head>
+               <l>Quid Momi, quid Materiae, mihi narret amicus</l>
+               <l>Plaſmata conſcribit, foetida monſtra parit?</l>
+            </lg>
+            <lg>
+               <head>Solutio.</head>
+               <l>Lana creat tineas, Nebulonem nominat Anglis,</l>
+               <l>Cui pudor, ingenium, gratia, candor abeſt.</l>
+            </lg>
+            <l>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.</l>
+            <l>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.</l>
+            <l>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.</l>
+            <l>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+            </l>
+            <l>
+               <pb n="12" facs="tcp:43933:7"/>
+SIccine, ſcurra ferox, miſerum maciare magiſtrum</l>
+            <l>Te juvat? innocuos exagitare viros?</l>
+            <l>Ac ſi Cerbereis turgerent pectora diris,</l>
+            <l>Inficeret fibras torva Megaera tuas.</l>
+            <l>Nulla palaephatiis miſces medicamina char<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>is,</l>
+            <l>Nec quid habes genii lucidioris iners.</l>
+            <l>Putida mentiris, blandiris: Tullius illum</l>
+            <l>Judicat illepidum, cui tua lingua litat.</l>
+            <l>Prodigium humani generis, non candidus extat</l>
+            <l>
+               <hi>Grotius;</hi> aſt patrii gemma, decuſque ſoli,</l>
+            <l>Audiat iſte licet talis, capitalia patrans</l>
+            <l>Crimina, quae ſummo torta rigore gemunt.</l>
+            <l>Tu tamen ô palpo laudas, deliria jactas,</l>
+            <l>Abderitanis futiliora jocis.</l>
+            <l>Indiget Hellebor<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> qui te veneratur ineptum:</l>
+            <l>Naviget <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, qui tua metra probat.</l>
+            <l>Frons index anim<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> titulus dicatur opellae:</l>
+            <l>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> nemo vertice ſanus ait.</l>
+            <l>Non torquatus eques, cui tu famularis, &amp; aſtas,</l>
+            <l>Promeret ad ſannas talia dicta ſuas.</l>
+            <l>Non mihi certatur, ſed diſſertatur, &amp; illi:</l>
+            <l>A ſtupet ille ſtylo, materiae ſed ego.</l>
+            <l>Singula quid referam? multis convenimus ambo;</l>
+            <l>Et diſceſſuris pangitur alma charis.</l>
+            <l>
+               <pb n="13" facs="tcp:43933:7"/>
+Sed tu felle truci reboans cerebroſus alaſtor,</l>
+            <l>Conturbas ſocii jura, fidemque chori.</l>
+            <l>Ibide Naſonis truculentior ipſe notaris:</l>
+            <l>Hic libertatem, tu rapis eſſe mihi.</l>
+            <l>Depecularis inops vitam, victum; nec amictum</l>
+            <l>Barbarus indulges: Thrax violente furis.</l>
+            <l>Nigra Cytheriacum ma<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ulant ſpecularia cygnum,</l>
+            <l>Luridus ingenuas fuſcat ocellus opes.</l>
+            <l>Me monſtrum vocitas; protruſo daemonis ano</l>
+            <l>Os vapor aſſimilas; jurgia rauca rugis.</l>
+            <l>Me cyclope crepas portentum turpius ullo<hi>:</hi>
+            </l>
+            <l>Deficit illicibus dia Minerva genis.</l>
+            <l>Negligis haud naſum, Veneris lue fingis adeſum;</l>
+            <l>Diſpereat, Paphiae qui vaga luſtra petit.</l>
+            <l>Obturat capitis nares pituita, ſed iſtas</l>
+            <l>Eximit, heu moechi ſtigma, ſagitta cohi.</l>
+            <l>Non ego depereo dominas, non oſcula venor;</l>
+            <l>Eſt mihi muſaeum curia, ſponſa liber.</l>
+            <l>Rabula quid facias? ſciolorum fautor onagrum</l>
+            <l>Te jugat, &amp; luſus abdicat ille tuos.</l>
+            <l>
+               <hi>Priſ</hi> bovicida blatis à me tolerare <hi>cianum,</hi>
+            </l>
+            <l>Nec non diſcipulos plurima flere meos.</l>
+            <l>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>!</l>
+            <l>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>;</l>
+            <l>
+               <pb n="14" facs="tcp:43933:8"/>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+            </l>
+            <l>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.</l>
+            <l>Pygotribam, non paedotribam, me bucco laceſſis<hi>:</hi>
+            </l>
+            <l>A non plagoſis Ludio lora luas.</l>
+            <l>Vilis adulator pecudum eſt, oſorque ferarum</l>
+            <l>Peſſimus, alterutro foedior Hibris erit.</l>
+            <l>Vade age, vappa fugax, oras appelle remotas;</l>
+            <l>Ne te carnificis caedat iniqua manus.</l>
+            <l>Nunc tibi ſint comites laqueï; nunc monſtret obeſus</l>
+            <l>Cerdo furciferum; vindicet ipſe puer,</l>
+            <l>Quem modo ſulphureïs ſufflabas invidus armis,</l>
+            <l>Illius ac ſtruerent livor &amp; ira necem.</l>
+            <l>Spiritus eſt vindex numen<hi>:</hi> te vidit agentem</l>
+            <l>Falſidicum ſtygii facta profana vadi.</l>
+            <l>Prodis in expanſum recidens lita ſimia ſputum,</l>
+            <l>Quod peccatorem coecat &amp; angit herum.</l>
+            <l>Foeta cruoribibos metuunt armenta leones,</l>
+            <l>Subruma carnivoro deviat agna lupo.</l>
+            <l>Saucia fulminei minitantur vulnera pardi,</l>
+            <l>Hiſpidus imbelles eſurit urſus oves.</l>
+            <l>Milvus &amp; accipiter tremulos generantur ad ictus;</l>
+            <l>Turtur, olor, perdix, &amp; philomela, quient.</l>
+            <l>Scilicet in terris remanet concordia diſcors:</l>
+            <l>Huic quod paſtus erit, moeror &amp; horror ei.</l>
+            <l>
+               <pb n="15" facs="tcp:43933:8"/>
+Sic ſibi muſca ſalax dapibus ſaturatur inemptis,</l>
+            <l>Sed formica tenax, ſedula ſudat apis.</l>
+            <l>Quid tu, fuce vorax, telluris inutile pondus,</l>
+            <l>Mancipium vitii, ſtercus, oleta, paras?</l>
+            <l>Sons epulor, bacchor, meretricor, acerbor, odoror,</l>
+            <l>Quaduplor, ampullor, lurcor, apricor, aquor.</l>
+            <l>Rectores juvenum ſordent tibi, treſſis agaſo,</l>
+            <l>Clangitur hos aris, hos ſtuduiſſe focis.</l>
+            <l>Nugero, ganeo, gnatho, gulo, balatroque, ſuſurro,</l>
+            <l>Gaudent pacificos inſimulare procos.</l>
+            <l>Non ego percellor, te nil niſi damna mereri:</l>
+            <l>Naſcitur ad viduas morio quiſque vices.</l>
+            <l>Eſt ſatius ſtulto praeſtare ſilentia rebus,</l>
+            <l>Quàm celebrare ſui ſomnia vana tori.</l>
+            <l>Quid tibi ſacrilego cum religione nepoti?</l>
+            <l>Non tibi ventriloquo creditur eſſe Deum.</l>
+            <l>Chriſticolis ſaevos hoſtes mandatur amare,</l>
+            <l>Tu cane vicinos pejus &amp; angue necas.</l>
+            <l>O quàm laetarer, rabiem ſi cernere velles!</l>
+            <l>Virtutis ſtatuas coelica caſtra cupi!</l>
+            <l>Hoc de cive ſato dici, non ultima laus eſt,</l>
+            <l>Deſipuit coelebs, ſed ſapit ille ſenex.</l>
+            <l>Deſere tu tricis rapidum diſpendere tempus,</l>
+            <l>Ne te grandaevum vincula, reſtis, avent.</l>
+            <l>
+               <pb n="16" facs="tcp:43933:9"/>
+Si quid alis cultûs pauper, conſueſce labori,</l>
+            <l>Deſidiae fugito ſqualida ſigna ſequi.</l>
+            <l>Irrita ſi tibi ſint homini documenta recocto,</l>
+            <l>Et pluris paleas, quàm bona verba putes;</l>
+            <l>Sed piger, unius cenſum tu redde talenti;</l>
+            <l>Si fodias, pateris; dilapides, quid erit?</l>
+            <l>Vive, vale, felix, veteranus, &amp; omnia praeſtes,</l>
+            <l>Quae placeant ſuperis, proficiantque tibi,</l>
+            <l>At ſi tu fracidus ſceleri ceſſare recuſas,</l>
+            <l>Ultio, cognoſcas, excubat ante fores.</l>
+            <l>Nunc claudam rivos; mihi jam ſatis arva biberunt:</l>
+            <l>Vermibus, ac cochleis, bilis, &amp; ardor ineſt.</l>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:43933:9"/>
+         </div>
+      </body>
+   </text>
+</TEI>
